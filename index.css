@@ -1,0 +1,38 @@
+html {
+    margin-bottom: 1000px;
+}
+
+body {
+    background-color: #bdc1c6;
+    margin: 0;
+    padding: 0;
+    font-family: erdana,helvetica,sans-serif;
+}
+
+.header-div {
+    background-color: #E7E9EB;
+    box-shadow: 0px 0px 10px 0px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: right;
+
+}
+
+.header-div ul {
+    margin: 0;
+    padding: 0;
+    margin-left: .4em;
+}
+
+.main-div #welcome-message {
+    font-size: 50px;
+}
+
+#welcome-message span {
+    color: red;
+    font-synthesis: style;
+}
+
+.main-div {
+
+}
